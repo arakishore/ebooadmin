@@ -1,0 +1,7 @@
+writable/cache/
+writable/logs/
+writable/session/
+node_modules/
+vendor/
+public/uploads
+.env
